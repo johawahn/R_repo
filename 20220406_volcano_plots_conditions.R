@@ -71,6 +71,7 @@ t_test = function(dt, cond1, cond2){
   return(p_vals*nrow(dt))
 }
 
+#Fold change 
 Fc_2 = function(df, cond1, cond2){
   control = cond1
   condition = cond2
