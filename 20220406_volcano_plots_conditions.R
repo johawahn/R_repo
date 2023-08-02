@@ -1,4 +1,3 @@
-setwd("C:/Users/jwahnzavalet/20220406_biotin_labeled_quant_mzML_analysis")
 
 library(stringr)
 library(ggplot2)
